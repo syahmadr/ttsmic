@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "TTSMic",
+			"path": "./app",
+		},
+		{
+			"name": "Resources",
+			"path": "./resources",
+		}
+	]
+}
